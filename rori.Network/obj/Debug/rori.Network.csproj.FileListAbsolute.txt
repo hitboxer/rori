@@ -1,0 +1,4 @@
+D:\User\Documents\Visual Studio 2015\Projects\rori\rori.Network\bin\Debug\rori.Network.dll
+D:\User\Documents\Visual Studio 2015\Projects\rori\rori.Network\bin\Debug\rori.Network.pdb
+D:\User\Documents\Visual Studio 2015\Projects\rori\rori.Network\obj\Debug\rori.Network.dll
+D:\User\Documents\Visual Studio 2015\Projects\rori\rori.Network\obj\Debug\rori.Network.pdb

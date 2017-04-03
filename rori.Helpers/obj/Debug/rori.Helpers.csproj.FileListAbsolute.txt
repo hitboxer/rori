@@ -1,0 +1,5 @@
+D:\User\Documents\Visual Studio 2015\Projects\rori\rori.Helpers\bin\Debug\rori.Helpers.dll
+D:\User\Documents\Visual Studio 2015\Projects\rori\rori.Helpers\bin\Debug\rori.Helpers.pdb
+D:\User\Documents\Visual Studio 2015\Projects\rori\rori.Helpers\obj\Debug\rori.Helpers.csprojResolveAssemblyReference.cache
+D:\User\Documents\Visual Studio 2015\Projects\rori\rori.Helpers\obj\Debug\rori.Helpers.dll
+D:\User\Documents\Visual Studio 2015\Projects\rori\rori.Helpers\obj\Debug\rori.Helpers.pdb

@@ -1,0 +1,23 @@
+﻿/// rori
+
+- Make SelectionWindow MVVM based.
+
+- In rori.Drawing.Capture: http://stackoverflow.com/a/1546121 at line 50: 'GetHbitmap' // fixed as of now. 
+- In rori.Drawing.Capture: line 57: 'PixelFormat'
+- In rori.Drawing.Capture: Bitmap has to get disposed.
+- In rori.Drawing.Capture: Fix Taskbar showing. LUL //idk how to fix this yet
+- In rori.Drawing.Capture: FIX FOREGROUNDWINDOW SHITBUG LOL USER32 SUCK MY DICK THX // fixed (I think)
+
+
+- In rori.Helpers.Windows: Line 25: is this #if bad practice? 
+
+- In rori.Helpers.WindowManager: public static void ForceForegroundWindow(IntPtr hWnd) ShowWindow (resizes applications size if maximized)
+
+- In rori.Helpers.WindowManager: public static WindowPlacement GetWindowPlacementByHandle(IntPtr window) // continue working on this
+
+:thinking:
+
+
+
+
+PERFOMANCE IS KEY
